@@ -1,0 +1,12 @@
+C:\Users\Menor\source\repos\send email\bin\Debug\send email.exe.config
+C:\Users\Menor\source\repos\send email\bin\Debug\send email.exe
+C:\Users\Menor\source\repos\send email\bin\Debug\send email.pdb
+C:\Users\Menor\source\repos\send email\bin\Debug\send email.xml
+C:\Users\Menor\source\repos\send email\obj\Debug\send email.vbproj.AssemblyReference.cache
+C:\Users\Menor\source\repos\send email\obj\Debug\send_email.Form1.resources
+C:\Users\Menor\source\repos\send email\obj\Debug\send_email.Resources.resources
+C:\Users\Menor\source\repos\send email\obj\Debug\send email.vbproj.GenerateResource.cache
+C:\Users\Menor\source\repos\send email\obj\Debug\send email.vbproj.CoreCompileInputs.cache
+C:\Users\Menor\source\repos\send email\obj\Debug\send email.exe
+C:\Users\Menor\source\repos\send email\obj\Debug\send email.xml
+C:\Users\Menor\source\repos\send email\obj\Debug\send email.pdb
